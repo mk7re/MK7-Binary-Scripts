@@ -24,3 +24,12 @@ Exports a section of BSEQ that contains information related to traversing to and
 Converts binary-CSV files from .bin to .csv (`bin2csv`) and viceversa (`csv2bin`). An additional argument (`datatype`) exists in order to specify the data type of the values stored by the binary-CSV file (defaults to `int`).
 
 `Usage: mk7_parse_binary_csv.py <mode: bin2csv|csv2bin> <datatype: -int|-uint|-float|-double> <input_file> <output_file>`
+
+# MK7 BCTR Advanced EditorGUI
+GUI editor for `.bctr` files, based on `MK7_BCTR_analysis`. By [luigifan27](https://github.com/LoigiFan72).
+
+# MK7 BSEQ ViewerGUI
+GUI version of `MK7_BSEQ_analyser`. By [luigifan27](https://github.com/LoigiFan72).
+
+# MK7 E3 BSEQ ViewerGUI
+GUI version of `MK7_BSEQ_analyser_e3_2010`. By [luigifan27](https://github.com/LoigiFan72).

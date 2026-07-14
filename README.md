@@ -122,3 +122,6 @@ GUI version of `MK7_BSEQ_analyser`. By [luigifan27](https://github.com/LoigiFan7
 
 # MK7 E3 BSEQ ViewerGUI
 GUI version of `MK7_BSEQ_analyser_e3_2010`. By [luigifan27](https://github.com/LoigiFan72).
+
+# SystemSaveData.hexpat
+A binary pattern for [ImHex](https://imhex.werwolv.net/) for parsing the contents of a save file (`systemX.dat`, where X is a number from 0 to 9). (WIP)
